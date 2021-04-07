@@ -162,3 +162,7 @@ body {
 a {
   color: #fc654d;
 }
+
+a:hover {
+  color: white!important;
+}

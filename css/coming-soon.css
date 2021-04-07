@@ -107,7 +107,8 @@ body {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: #003049;
+  /* opacity: 0.8; */
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
@@ -141,7 +142,10 @@ body {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #002E66;
+    background-color: #fc654d;
+    border: #003049 solid 3px;
+    height: 4.3rem;
+    width: 4.3rem;
   }
 }
 

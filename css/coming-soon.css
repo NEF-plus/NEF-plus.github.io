@@ -99,8 +99,7 @@ body {
 }
 
 .social-icons ul > li {
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin: 1rem;
   display: inline-block;
 }
 
@@ -127,12 +126,7 @@ body {
   }
   .social-icons ul > li {
     display: block;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 2rem;
-  }
-  .social-icons ul > li:last-child {
-    margin-bottom: 0;
+    margin: 2rem;
   }
   .social-icons ul > li > a {
     transition: all 0.2s ease-in-out;
